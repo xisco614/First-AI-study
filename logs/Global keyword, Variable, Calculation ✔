@@ -1,0 +1,62 @@
+#variable
+# : station🚊
+
+# variable value
+# : "사당", "신도림", "인천공항" enter in order
+# output sentence🚊
+# : xx행 열차🚊가 들어오고 있습니다.
+
+station = "인천공항"
+
+print(str(station) + " 행 열차가 들어오고 있습니다.")
+
+#Back to coding
+
+print(2**2) #4
+print(10%3) #1
+print(5//3) #1
+print(5 >= 5) #true
+print(5 == 5) # true
+print(3 + 7 == 10) # 3+7 = 10, True
+print(3 != 10) #True
+print(not(10 != 9)) #False
+print((4 > 1) & (4 < 10)) #True
+print((5 > 1) or (5 < 1)) # there is "or" so it is true
+
+print(5 > 4 > 3) #true
+print(5 > 3 > 10) #false
+#========end=========#
+
+Result🔽
+
+Python is holy
+Python is awesome
+Python is holy
+Python is awesome
+Python is fantastic
+5
+-10
+3.14
+35
+24
+False
+False
+True
+my dog name is 레몬
+레몬 is 2 years old she wants to nap anywhere 
+레몬 is adult? False
+인천공항 행 열차가 들어오고 있습니다.
+4
+1
+1
+True
+True
+True
+True
+False
+True
+True
+True
+False
+
+#THANK YOU FOR WATCHING❤😁
